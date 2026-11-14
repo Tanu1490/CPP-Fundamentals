@@ -6,7 +6,7 @@ int main()
     // Variables and datatypes
     // ------var define---------
     int age = 17;
-    cout<<"His age is : "<<age<<endl;
+    cout<<"His age  : "<<age<<endl;
 
     // ----------var declaration-----------
     int Age;
