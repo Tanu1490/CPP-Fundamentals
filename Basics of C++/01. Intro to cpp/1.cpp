@@ -10,8 +10,7 @@ int main(){
 
 // #include is a preprocessor directive.
 
-// It tells the preprocessor to include the contents of the iostream header, 
-//which provides input/output features such as cin and cout.
+// It tells the preprocessor to include the contents of the iostream header which provides input/output features such as cin and cout.
 
 // std:: refers to the standard namespace in C++.
 

@@ -8,6 +8,7 @@ int main()
     cout << "Age is :" << age << endl;
 
     // int, float, double will work normally
+    
     // for bool, need to give either 0 or 1 as input
 
     bool istrue;

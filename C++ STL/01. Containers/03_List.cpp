@@ -77,6 +77,7 @@ int main()
     for(int i : v){
         cout<<i<<" ";
     }
+
     cout<<endl;
 
     list<int> items = {10,20,30,40};
