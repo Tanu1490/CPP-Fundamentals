@@ -15,7 +15,7 @@ int main(){
     cout<<"Element at arr[3] : "<<arr[3]<<endl;
     cout<< "Element at arr[0] : "<< *(arr.begin()) <<endl;
 
-    //.begin() - returns an iterator, pointing to position just after the last element. in the vector.
+    //.end() - returns an iterator, pointing to position just after the last element. in the vector.
     cout<< "Element at arr[5] : "<< *(arr.end()-1) <<endl;
 
     // .push_back() , .pop_back() , size()
