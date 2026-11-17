@@ -35,5 +35,20 @@ int main()
 
     cout << *range.first << endl;
     cout << *range.second << endl;
+
+
+    // Min Max Algo
+    // compare between 2 numbers 
+    int a = 10 , b = 6;
+    cout<<max(a,b)<<endl;
+    cout<<min(a,b)<<endl;
+
+    // finding max or min in a range
+    vector<int> v = {10,20,30,40,50};
+    auto x = min_element(v.begin() , v.end());
+    auto y = max_element(v.begin() , v.end());
+
+    cout<<*x<<endl;
+    cout<<*y<<endl;
     return 0;
 }
